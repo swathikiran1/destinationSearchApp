@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.image {
+  border-radius: 12px;
+  width: 250px;
+}
+
+.name {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'Open Sans';
+  font-weight: 600;
+}
+
+.list-item {
+  flex-shrink: 1;
+  list-style-type: none;
+  margin: 15px;
+}
